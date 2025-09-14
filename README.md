@@ -26,7 +26,7 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ## 📂 Featured Projects  
 
 ### 🔹 SQL  
-- 📈 [Movie Case Study in SQL]([https://github.com/YOUR_GITHUB_USERNAME/sql-movie-case-study](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL))  
+- 📈 [Movie Case Study in SQL](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL))  
 - 📊 [Retail Sales Analysis (SQL)](https://github.com/YOUR_GITHUB_USERNAME/sql-retail-sales)  
 
 ### 🔹 Power BI  
