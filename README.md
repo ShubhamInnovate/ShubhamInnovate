@@ -17,9 +17,6 @@ I enjoy turning raw data into insights and visualizations that support decision-
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
 
 ---
 
@@ -30,12 +27,12 @@ I enjoy turning raw data into insights and visualizations that support decision-
 - 📊 [MovieLens-SQL-CaseStudy (SQL)](https://github.com/ShubhamInnovate/MovieLens-SQL-CaseStudy)
 
 ### 🔹 Power BI  
-- 📊 [Superstore-Sales-Analysis-Dashboard - PowerBI](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
-- 📉 [Adventure-Works-Sales-Analysis-Dashboards - PowerBI](https://github.com/ShubhamInnovate/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
+- 📊 [Superstore-Sales-Analysis-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
+- 📉 [Adventure-Works-Sales-Analysis-Dashboards (PowerBI)](https://github.com/ShubhamInnovate/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
 
 ### 🔹 Excel  
-- 📑 [Coffee-Shop-Sales - Excel](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
-- 📊 [Superstore-Sales-Analysis-Dashboard - Excel](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---Excel)
+- 📑 [Coffee-Shop-Sales  (Excel)](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
+- 📊 [Superstore-Sales-Analysis-Dashboard  (Excel)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---Excel)
 
 ### 🔹 Python (On-going Learning)  
 
