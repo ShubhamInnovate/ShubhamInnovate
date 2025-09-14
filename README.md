@@ -26,23 +26,22 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ## 📂 Featured Projects  
 
 ### 🔹 SQL  
-- 📈 [Movie Case Study in SQL](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL))  
-- 📊 [Retail Sales Analysis (SQL)](https://github.com/YOUR_GITHUB_USERNAME/sql-retail-sales)  
+- 📈 [Superstore-Sales-Analysis (SQL)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL)
+- 📊 [MovieLens-SQL-CaseStudy (SQL)](https://github.com/ShubhamInnovate/MovieLens-SQL-CaseStudy)
 
 ### 🔹 Power BI  
-- 📊 [Retail Dashboard – Power BI](https://github.com/YOUR_GITHUB_USERNAME/retail-powerbi-dashboard)  
-- 📉 [Category Analysis – Power BI](https://github.com/YOUR_GITHUB_USERNAME/powerbi-category-analysis)  
+- 📊 [Superstore-Sales-Analysis-Dashboard - PowerBI](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
+- 📉 [Adventure-Works-Sales-Analysis-Dashboards - PowerBI](https://github.com/ShubhamInnovate/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
 
 ### 🔹 Excel  
-- 📑 [Excel Sales Dashboard](https://github.com/YOUR_GITHUB_USERNAME/excel-sales-dashboard)  
-- 📊 [MIS Report in Excel](https://github.com/YOUR_GITHUB_USERNAME/excel-mis-report)  
+- 📑 [Coffee-Shop-Sales - Excel](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
+- 📊 [Superstore-Sales-Analysis-Dashboard - Excel](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---Excel)
 
 ### 🔹 Python (On-going Learning)  
-- 🐍 [Exploratory Data Analysis on Movies Dataset](https://github.com/YOUR_GITHUB_USERNAME/python-movies-eda)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [Add Your LinkedIn Link Here]  
-- 🌐 Portfolio: [Add Portfolio Link Here, if any]  
+- 💼 LinkedIn: [_]  
+- 🌐 Portfolio: [_]  
 - 📧 Email: [shubham.datafocus@gmail.com]  
