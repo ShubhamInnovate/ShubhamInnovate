@@ -39,6 +39,6 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [_]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/shubham-vishwakarma-644bb8338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - 🌐 Portfolio: [_]  
 - 📧 Email: [shubham.datafocus@gmail.com]  
