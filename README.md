@@ -25,6 +25,7 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ### 🔹 SQL  
 - 📈 [Superstore-Sales-Analysis (SQL)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL)
 - 📊 [MovieLens-SQL-CaseStudy (SQL)](https://github.com/ShubhamInnovate/MovieLens-SQL-CaseStudy)
+- 📉 [Customer-Orders-Analysis (SQL)](https://github.com/ShubhamInnovate/Customer-Orders-Analysis---SQL)
 
 ### 🔹 Power BI  
 - 📊 [Superstore-Sales-Analysis-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
