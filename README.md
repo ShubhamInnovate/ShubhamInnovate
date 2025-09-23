@@ -34,6 +34,8 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ### 🔹 Excel  
 - 📑 [Coffee-Shop-Sales-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
 - 📊 [Superstore-Sales-Analysis-Dashboard  (Excel)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---Excel)
+- 📑 [Purchase-&-Shipping-Products-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Purchase-Shipping-Products-Analysis-Dashboard---Excel)
+
 
 ### 🔹 Python (On-going Learning)  
 
