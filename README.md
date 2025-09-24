@@ -30,6 +30,8 @@ I enjoy turning raw data into insights and visualizations that support decision-
 ### 🔹 Power BI  
 - 📊 [Superstore-Sales-Analysis-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
 - 📉 [Adventure-Works-Sales-Analysis-Dashboards (PowerBI)](https://github.com/ShubhamInnovate/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
+- 📊 [Amazon-Global-Superstore-Sales-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Amazon-Global-Superstore-Sales-Dashboard---PowerBI)
+
 
 ### 🔹 Excel  
 - 📑 [Coffee-Shop-Sales-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
