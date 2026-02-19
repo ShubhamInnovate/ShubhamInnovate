@@ -40,8 +40,9 @@ I enjoy turning raw data into insights and visualizations that support decision-
 
 
 ### 🔹 Python (On-going Learning)  
+- 📈 [Retail-Customer-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Retail-Customer-Analysis-Python-Case-Study-----Python)
+- 📊 [Credit-Card-Data-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Credit-Card-Data-Analysis-Python-Case-Study-----Python)
 
----
 
 ## 📫 Connect With Me  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shubham-vishwakarma-analytics/]  
