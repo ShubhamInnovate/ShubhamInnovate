@@ -39,10 +39,13 @@ I enjoy turning raw data into insights and visualizations that support decision-
 - 📑 [Purchase-&-Shipping-Products-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Purchase-Shipping-Products-Analysis-Dashboard---Excel)
 
 
-### 🔹 Python (On-going Learning)  
+### 🔹 Python  
 - 📈 [Retail-Customer-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Retail-Customer-Analysis-Python-Case-Study-----Python)
 - 📊 [Credit-Card-Data-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Credit-Card-Data-Analysis-Python-Case-Study-----Python)
 
+
+### 🔹 Machine Learning (On-going Learning) 
+----
 
 ## 📫 Connect With Me  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shubham-vishwakarma-analytics/]  
