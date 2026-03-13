@@ -1,22 +1,29 @@
-# 👋 Hi, I'm Shubham Vishwakarma  
+# 👋 Hi, I'm Shubham Vishwakarma
 
-🎯 **Aspiring Data Analyst | SQL | Excel | Power BI | Python (Learning)**  
+🎯 **Entry-Level Data Analyst | SQL | Excel | Power BI | Python | Data Visualization**
 
-I’m currently pursuing a **Data Analytics course** and building projects step by step.  
-So far, I’ve completed **Excel, SQL, and Power BI**, and I’m currently learning **Python for Data Analysis**.  
-I enjoy turning raw data into insights and visualizations that support decision-making.  
+I am a **final-year BTech (Information Technology) student** and an **IBM Certified Data Analyst** with hands-on experience in analyzing datasets and building dashboards.
 
----
+I enjoy transforming **raw data into meaningful insights** that support business decision-making. My work focuses on **data cleaning, exploratory data analysis (EDA), dashboard creation, and identifying trends in business data**.
 
-## 🔧 Skills & Tools  
-- **Excel** → Data cleaning, Pivot Tables, Dashboards  
-- **SQL** → Queries, Joins, CTEs, Window Functions, Case Studies  
-- **Power BI** → DAX, Data Modeling, Interactive Dashboards  
-- **Python (Ongoing)** → Pandas, Numpy, Matplotlib, Seaborn (EDA)  
-- **Other Tools** → Git & GitHub  
+Currently expanding my expertise in **Python for Data Analysis and Machine Learning**.
 
 ---
 
+## 🧰 Skills & Tools
+
+**Data Analysis**
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Business Insights  
+
+**Tools & Technologies**
+- **Excel** → Data Cleaning, Pivot Tables, Dashboards  
+- **SQL** → Queries, Joins, CTEs, Window Functions  
+- **Power BI** → Data Modeling, DAX, Interactive Dashboards  
+- **Python** → Pandas, NumPy, Matplotlib, Seaborn  
+- **Other Tools** → Git, GitHub  
 
 ---
 
