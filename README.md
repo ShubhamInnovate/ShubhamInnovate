@@ -56,5 +56,4 @@ Currently expanding my expertise in **Python for Data Analysis and Machine Learn
 
 ## 📫 Connect With Me  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shubham-vishwakarma-analytics/]  
-- 🌐 Portfolio: [_]  
-- 📧 Email: [_]  
+- 💻 GitHub: [https://github.com/ShubhamInnovate]
