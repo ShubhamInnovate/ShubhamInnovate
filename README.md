@@ -30,25 +30,25 @@ Currently expanding my expertise in **Python for Data Analysis and Machine Learn
 ## 📂 Featured Projects  
 
 ### 🔹 SQL  
-- 📈 [Superstore-Sales-Analysis (SQL)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis---SQL)
-- 📊 [MovieLens-SQL-CaseStudy (SQL)](https://github.com/ShubhamInnovate/MovieLens-SQL-CaseStudy)
-- 📉 [Customer-Orders-Analysis (SQL)](https://github.com/ShubhamInnovate/Customer-Orders-Analysis---SQL)
+- 📈 [Superstore-Sales-Analysis (SQL)](https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis---SQL)
+- 📊 [MovieLens-SQL-CaseStudy (SQL)](https://github.com/shubham-vishwakarma-analytics/MovieLens-SQL-CaseStudy)
+- 📉 [Customer-Orders-Analysis (SQL)](https://github.com/shubham-vishwakarma-analytics/Customer-Orders-Analysis---SQL)
 
 ### 🔹 Power BI  
-- 📊 [Superstore-Sales-Analysis-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---PowerBI)
-- 📉 [Adventure-Works-Sales-Analysis-Dashboards (PowerBI)](https://github.com/ShubhamInnovate/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
-- 📊 [Amazon-Global-Superstore-Sales-Dashboard (PowerBI)](https://github.com/ShubhamInnovate/Amazon-Global-Superstore-Sales-Dashboard---PowerBI)
+- 📊 [Superstore-Sales-Analysis-Dashboard (PowerBI)](https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis-Dashboard---PowerBI)
+- 📉 [Adventure-Works-Sales-Analysis-Dashboards (PowerBI)](https://github.com/shubham-vishwakarma-analytics/Adventure-Works-Sales-Analysis-Dashboards---PowerBI)
+- 📊 [Amazon-Global-Superstore-Sales-Dashboard (PowerBI)](https://github.com/shubham-vishwakarma-analytics/Amazon-Global-Superstore-Sales-Dashboard---PowerBI)
 
 
 ### 🔹 Excel  
-- 📑 [Coffee-Shop-Sales-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Coffee-Shop-Sales--Excel)
-- 📊 [Superstore-Sales-Analysis-Dashboard  (Excel)](https://github.com/ShubhamInnovate/Superstore-Sales-Analysis-Dashboard---Excel)
-- 📑 [Purchase-&-Shipping-Products-Analysis-Dashboard (Excel)](https://github.com/ShubhamInnovate/Purchase-Shipping-Products-Analysis-Dashboard---Excel)
+- 📑 [Coffee-Shop-Sales-Analysis-Dashboard (Excel)](https://github.com/shubham-vishwakarma-analytics/Coffee-Shop-Sales--Excel)
+- 📊 [Superstore-Sales-Analysis-Dashboard  (Excel)](https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis-Dashboard---Excel)
+- 📑 [Purchase-&-Shipping-Products-Analysis-Dashboard (Excel)](https://github.com/shubham-vishwakarma-analytics/Purchase-Shipping-Products-Analysis-Dashboard---Excel)
 
 
 ### 🔹 Python  
-- 📈 [Retail-Customer-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Retail-Customer-Analysis-Python-Case-Study-----Python)
-- 📊 [Credit-Card-Data-Analysis-Case-Study (Python)](https://github.com/ShubhamInnovate/Credit-Card-Data-Analysis-Python-Case-Study-----Python)
+- 📈 [Retail-Customer-Analysis-Case-Study (Python)](https://github.com/shubham-vishwakarma-analytics/Retail-Customer-Analysis-Python-Case-Study-----Python)
+- 📊 [Credit-Card-Data-Analysis-Case-Study (Python)](https://github.com/shubham-vishwakarma-analytics/Credit-Card-Data-Analysis-Python-Case-Study-----Python)
 
 
 ### 🔹 Machine Learning (On-going Learning) 
@@ -56,4 +56,4 @@ Currently expanding my expertise in **Python for Data Analysis and Machine Learn
 
 ## 📫 Connect With Me  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shubham-vishwakarma-analytics/]  
-- 💻 GitHub: [https://github.com/ShubhamInnovate]
+- 💻 GitHub: [https://github.com/shubham-vishwakarma-analytics]
