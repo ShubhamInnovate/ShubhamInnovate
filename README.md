@@ -10,7 +10,7 @@ I specialize in transforming raw data into actionable business insights through 
 
 ---
 
-## 🎯 Portfolio Highlights:
+## 🎯 Portfolio Highlights:-
 
 - ✔️ 13+ Data Analytics & Machine Learning Projects
 - ✔️ IBM Certified Data Analyst & Data Scientist
