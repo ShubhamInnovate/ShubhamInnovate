@@ -10,17 +10,16 @@ I specialize in transforming raw data into actionable business insights through 
 
 ---
 
-## 🎯 Portfolio Highlights
+## 🎯 Portfolio Highlights:-
 
 - ✔️ 13+ Data Analytics & Machine Learning Projects
 - ✔️ IBM Certified Data Analyst & Data Scientist
-- ✔️ AnalytixLabs Certified Data Analyst (Python) & (Excel, SQL & Power BI)
-- ✔️ AnalytixLabs Certified Data Scientist (Python)
-- ✔️ IIT Guwahati (E&ICT Academy) — 8-Month Advanced Certification in Data Science & AI
 - ✔️ Microsoft SQL Server Professional Certificate
 - ✔️ 174 SQL problems solved on LeetCode — **Top SQL 50** badge
 - ✔️ 100 Days Machine Learning Challenge
+- ✔️ Daily SQL Challenges Repository
 - ✔️ End-to-End Dashboard Development (Power BI, Excel)
+- ✔️ Predictive Analytics & Machine Learning Projects
 
 ---
 
@@ -87,39 +86,10 @@ Git · GitHub · Jupyter Notebook
 
 ## 🏅 Certifications
 
-<table>
-<tr>
-<td width="25%" align="center">
-<a href="assets/certificates/analytixlabs-data-analyst-excel-sql-powerbi.png"><img src="assets/certificates/analytixlabs-data-analyst-excel-sql-powerbi.png" width="180"></a><br>
-<b>Certified Data Analyst</b><br>(Excel, SQL & Power BI)<br>AnalytixLabs · Nov 2025
-</td>
-<td width="25%" align="center">
-<a href="assets/certificates/analytixlabs-data-analyst-python.png"><img src="assets/certificates/analytixlabs-data-analyst-python.png" width="180"></a><br>
-<b>Certified Data Analyst</b><br>(Python)<br>AnalytixLabs · Feb 2026
-</td>
-<td width="25%" align="center">
-<a href="assets/certificates/analytixlabs-data-scientist-python.png"><img src="assets/certificates/analytixlabs-data-scientist-python.png" width="180"></a><br>
-<b>Certified Data Scientist</b><br>(Python)<br>AnalytixLabs · Aug 2026
-</td>
-<td width="25%" align="center">
-<a href="assets/certificates/iit-guwahati-eict-data-science-ai.png"><img src="assets/certificates/iit-guwahati-eict-data-science-ai.png" width="180"></a><br>
-<b>Advanced Certification in<br>Data Science & AI</b> (8 months)<br>IIT Guwahati (E&ICT Academy)
-</td>
-</tr>
-</table>
-
-*Click any certificate to view the full-size image.*
-
-| Certificate | Issuer | Date | Credential ID |
-|---|---|---|---|
-| [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/OBFJD9DQLZRF) | IBM (Coursera) | — | OBFJD9DQLZRF |
-| [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J8BXGA7T30DQ) | IBM (Coursera) | — | J8BXGA7T30DQ |
-| [Microsoft SQL Server Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/EQRT2MQFORL1) | Microsoft (Coursera) | — | EQRT2MQFORL1 |
-| Certified Data Analyst (Excel, SQL & Power BI) | AnalytixLabs | 5 Nov 2025 | ALB-DVA-5112025-4558 |
-| Certified Data Analyst (Python) | AnalytixLabs | 14 Feb 2026 | ALB-DSP-14022026-4786 |
-| Certified Data Scientist (Python) | AnalytixLabs | 14 Aug 2026 | ALB-MLP-14082026-5207 |
-| Advanced Certification in Data Science & AI (Offline, 8 months) | IIT Guwahati — E&ICT Academy (MeitY, Govt. of India) | Oct 2025 – Jun 2026 | EICT/2526/074-OC/36/416 |
-| [NASSCOM Data Visualization & Analytics](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shubham%2BVishwakarma_153347609.pdf.pdf) | NASSCOM FutureSkills Prime | — | — |
+- 🏆 **[IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/OBFJD9DQLZRF)**
+- 🏆 **[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J8BXGA7T30DQ)**
+- 🏆 **[Microsoft SQL Server Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/EQRT2MQFORL1)**
+- 📜 **[NASSCOM Data Visualization & Analytics](https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shubham%2BVishwakarma_153347609.pdf.pdf)**
 
 ---
 
